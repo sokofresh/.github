@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
   
-<img src="logo.png" width="30%" style="margin-right: 10px;">
+<img src="https://github.com/sokofresh/.github/blob/main/profile/logo.png" width="30%" style="margin-right: 10px;">
     <h2 style="color: lightgreen;"><a href="https://sokofresh.co.ke">Our Website</a></h2>
 </div>
 <h2 align="center" style="color: lightgreen;">Welcome to Sokofresh!</h2>
