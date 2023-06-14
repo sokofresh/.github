@@ -9,8 +9,11 @@
 </div>
 <h3 align="center">We offer experienced sourcing services for fresh fruit & vegetable buyers in East Africa.</h3>
 <br>
-<img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" width="300" /> <img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" width="300" /> <img src="https://github.com/sokofresh/.github/blob/main/profile/farmer.jpeg" width="300" />
-   
+<p align="center">
+<img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" width="300" />
+<img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" width="300" />
+<img src="https://github.com/sokofresh/.github/blob/main/profile/farmer.jpeg" width="300" />
+</p>   
 
 <h2 align="center">What we do:</h2>
 <div style="display: flex;">
