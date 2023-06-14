@@ -3,7 +3,7 @@
 <img src="https://github.com/sokofresh/.github/blob/main/profile/logo.png" width="30%" style="margin-right: 10px;">
     <h2><a href="https://sokofresh.co.ke">Our Website</a></h2>
 </div>
-<h2 align="center" color="#90EE90">Welcome to Sokofresh!</h2>
+<h2 align="center" color=`#90EE90`>Welcome to Sokofresh!</h2>
 <br>
 <div align = "center">
   <img src="https://github.com/sokofresh/.github/blob/main/profile/ova_homepage.png" style="max-width: 100%;" />
