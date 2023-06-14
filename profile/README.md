@@ -9,19 +9,8 @@
 </div>
 <h3 align="center">We offer experienced sourcing services for fresh fruit & vegetable buyers in East Africa.</h3>
 <br>
-<div display="flex">
-  <div style="display: flex;">
-    <div style="margin-right: 10px;">
-      <img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" style="max-width: 35%;" />
-    </div>
-    <div style="margin-right: 10px;">
-      <img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" style="max-width: 35%;" />
-    </div>
-    <div>
-      <img src="https://github.com/sokofresh/.github/blob/main/profile/farmer.jpeg" style="max-width: 35%;" />
-    </div>
-  </div>
-</div>
+<img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" width="300" /> <img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" width="300" /> <img src="https://github.com/sokofresh/.github/blob/main/profile/farmer.jpeg" width="300" />
+   
 
 <h2 align="center">What we do:</h2>
 <div style="display: flex;">
