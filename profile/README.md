@@ -10,7 +10,7 @@
 </div>
 <h3 align="center">We offer experienced sourcing services for fresh fruit & vegetable buyers in East Africa.</h3>
 <br>
-<div style="display: flex; justify-content: center;">
+<div display="flex">
   <div style="display: flex;">
     <div style="margin-right: 10px;">
       <img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" style="max-width: 35%;" />
