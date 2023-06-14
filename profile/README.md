@@ -1,8 +1,7 @@
-<div style="display: flex; justify-content: space-between;">
-  
+<p float="left">
 <img src="https://github.com/sokofresh/.github/blob/main/profile/logo.png" width="30%" style="margin-right: 10px;">
-    <h2><a href="https://sokofresh.co.ke">Our Website</a></h2>
-</div>
+<h2><a href="https://sokofresh.co.ke">Our Website</a></h2>
+</p>
 <h2 align="center" color=`#90EE90`>Welcome to Sokofresh!</h2>
 <br>
 <div align = "center">
