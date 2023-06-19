@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" width="300" height="280" />
 <img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" width="300" height="280" />
-<img src="https://github.com/sokofresh/.github/blob/main/profile/farmer.jpeg" width="300" height="280" />
+<img src="https://github.com/sokofresh/.github/blob/main/profile/coldroom.jpg" width="300" height="280" />
 </p>   
 
 <h2 align="center">What we do:</h2>
