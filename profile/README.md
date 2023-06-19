@@ -11,7 +11,7 @@
 <br>
 <p align="center">
 <img src="https://github.com/sokofresh/.github/blob/main/profile/farmers.jpeg" width="400"   />
-<img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" width="400" height="280"  />
+<img src="https://github.com/sokofresh/.github/blob/main/profile/mzee-1.jpg" width="400" />
 <img src="https://github.com/sokofresh/.github/blob/main/profile/coldroom.jpg" width="400" height="280"  />
 </p>   
 
